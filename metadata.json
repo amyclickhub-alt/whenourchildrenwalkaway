@@ -1,0 +1,6 @@
+{
+  "name": "When Our Children Walk Away - Book Sales Page",
+  "description": "High-converting, mobile-responsive sales page for 'When Our Children Walk Away' by Amy Nnamdi with Nigerian payment options, instant download, prayer toolkit, and conversion elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
